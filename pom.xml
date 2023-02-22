@@ -32,7 +32,7 @@
 			</testResource>
 		</testResources>
 
-	</build>
+	</buildd>
 	<dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
